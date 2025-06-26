@@ -1,5 +1,5 @@
-#!/bin/bash
-
+hiiii
+how are you
 # Create systemd service file for Tomcat with JDK 17
 cat <<EOF > /etc/systemd/system/tomcat.service
 [Unit]
